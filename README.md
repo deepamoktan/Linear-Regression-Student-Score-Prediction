@@ -1,0 +1,1 @@
+A Supervised Machine Learning project that predicts student final exam scores using Linear Regression. The model uses weekly self-study hours as an input feature and evaluates performance using MAE, MSE, RMSE, and R² score with data visualization using Matplotlib.
