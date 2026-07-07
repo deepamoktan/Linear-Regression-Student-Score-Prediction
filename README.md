@@ -33,4 +33,3 @@ The project includes:
 - Distribution of final exam scores using Histogram
 - Actual score vs Predicted score visualization
 
-## Project Files
