@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project is a **Supervised Machine Learning** project that predicts student final exam scores using **Linear Regression**.
-The model uses **weekly self-study hours** as an input feature and predicts the total score of students.
+The model uses **weekly self-study hours** as an input feature and predicts the final score of students.
 
 ---
 ## Machine Learning Algorithm
